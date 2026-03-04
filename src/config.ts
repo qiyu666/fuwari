@@ -62,22 +62,17 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://blog.qiyu666.dpdns.org",
+			url: "https://twitter.com",
 		},
 		{
 			name: "Steam",
 			icon: "fa6-brands:steam",
 			url: "https://store.steampowered.com",
 		},
-  {
-			name: "Alist",
-			icon: "fa6-bran:steam",
-			url: "https://alist.qiyu666.dpdns.org",
-		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/qiyu666",
+			url: "https://github.com/saicaca/fuwari",
 		},
 	],
 };
