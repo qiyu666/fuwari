@@ -71,7 +71,7 @@ export const profileConfig: ProfileConfig = {
 		},
   {
 			name: "Alist",
-			icon: "fa6-bran:alist",
+			icon: "fa6-bran:steam",
 			url: "https://alist.qiyu666.dpdns.org",
 		},
 	],
