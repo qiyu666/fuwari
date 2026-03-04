@@ -74,8 +74,6 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-bran:steam",
 			url: "https://alist.qiyu666.dpdns.org",
 		},
-	],
-}
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
