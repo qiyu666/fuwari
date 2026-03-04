@@ -65,9 +65,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://twitter.com",
 		},
 		{
-			name: "Steam",
+			name: "Alist",
 			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			url: "https://alist.qiyu666.dpdns.org/",
 		},
 		{
 			name: "GitHub",
